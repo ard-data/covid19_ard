@@ -11,7 +11,7 @@ https://github.com/br-data/open-source-guidelines
   - Mags-Zahlen für NRW https://www.mags.nrw/coronavirus-fallzahlen-nrw
   - RKI-Zahlen von Website: https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Fallzahlen.html
 
-- https://github.com/P3nny/covid-19
+- https://github.com/ard-data/covid-19
   - John-Hopkins-Zahlen aus diesem Repo: https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports
  
  
