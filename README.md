@@ -1,7 +1,16 @@
 # covid19_ard
 
 ## ARD Stories on Covid19 
-- https://www.tagesschau.de/inland/johns-hopkins-uni-corona-zahlen-101.html
+
+
+- NDR about Johns Hopkins data soruces
+https://www.tagesschau.de/inland/johns-hopkins-uni-corona-zahlen-101.html
+
+- BR using Insta-Infos to see where Ischgl tourists went
+https://www.br.de/nachrichten/deutschland-welt/coronavirus-von-ischgl-quer-durch-europa,RuqCj62
+
+- BR explorable explanation of corona spreading
+https://web.br.de/interaktiv/corona-simulation/
 
 
 
