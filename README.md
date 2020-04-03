@@ -1,5 +1,11 @@
 # covid19_ard
-Pooling of ARD #covid19 resources
+
+## ARD Stories on Covid19 
+- https://www.tagesschau.de/inland/johns-hopkins-uni-corona-zahlen-101.html
+
+
+
+Pooling of ARD #covid19 resources, API etc.
 
 Good compiled thoughts on Open Source projects:
 https://github.com/br-data/open-source-guidelines
