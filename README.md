@@ -5,7 +5,7 @@
 
 
 
-Pooling of ARD #covid19 resources, API etc.
+## Pooling of ARD #covid19 resources, APIs, wrapper, endpoints etc.
 
 Good compiled thoughts on Open Source projects:
 https://github.com/br-data/open-source-guidelines
