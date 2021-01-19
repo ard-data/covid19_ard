@@ -35,21 +35,15 @@ https://github.com/br-data/open-source-guidelines
 https://github.com/untergeekDE/scrape-covid19
 
 Enthält: 
-- R-Scraper für die HMSI-Zahlen für Hessen (s.u.)
 - R-Skript/Scraper zur Abfrage der Daten des DIVI-Intensivbettenregisters
 - R-Skript für Daten des RKI; Auswertungen Genesene/Aktive Fälle; Auswertung nach Alterskohorte und Geschlecht
 - R-Skript für den [regionalen R-Reproduktionswert-Index des Helmholtz-Instituts](https://gitlab.com/simm/covid19/secir/-/tree/master/img/dynamic/Rt_rawData)
+- R-Skript Übernahme und Auswertung der Prognosedaten des "COVID-Simulators" der Uni Saarbrücken für Hessen
 
 ### Endpunkte 
 
-Die Daten werden in der Regel in ein Google Sheet geschrieben.
-
-- Fälle, Inzidenz und Dynamik nach Kreisen https://docs.google.com/spreadsheets/d/1h0bvmSjSC-7osQpt94iGre9K5o_Atfj0UnLyQbuN9l4/edit#gid=0
-- Fälle, Todesfälle, Genesene, Wachstumsraten in den letzten vier Wochen https://docs.google.com/spreadsheets/d/1OhMGQJXe2rbKg-kCccVNpAMc3yT2i3ubmCndf-zX0JU/edit#gid=1805279723
-- Wachstumsraten und 7-Tage-Trends im Vergleich https://docs.google.com/spreadsheets/d/1NXHj4JXfD_jaf-P3YjA7jv3BYuOwU9_WKoVcDknIG64/edit#gid=1580920358
-- Fälle und Todesfälle nach Alter und Geschlecht (RKI-Daten) https://docs.google.com/spreadsheets/d/1RxlykWHoIZEq91M1bJNf26VPn8OWwI6VsgvAO47HM8Q/edit#gid=89632754
-
-Die tägliche Übersicht des Ministeriums wird bis auf weiteres auch hier angeboten: https://d.data.gcp.cloud.hr.de/scrape-hsm.csv
+Die Daten werden in der Regel in ein [Google Sheet](https://docs.google.com/spreadsheets/d/17s82vieTzxblhzqNmHw814F0xWN0ruJkqnFB1OpameQ/edit) geschrieben.
+Die tägliche Übersicht der Daten aus den hessischen Kreisen wird bis auf weiteres auch hier angeboten: https://d.data.gcp.cloud.hr.de/scrape-hsm.csv
   
 ### Mangelnde Zuverlässigkeit der Ministeriumsdaten für Hessen
 
