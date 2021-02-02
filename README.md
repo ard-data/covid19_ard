@@ -12,6 +12,8 @@ https://www.br.de/nachrichten/deutschland-welt/coronavirus-von-ischgl-quer-durch
 - BR explorable explanation of corona spreading
 https://web.br.de/interaktiv/corona-simulation/
 
+- MDR using simulation of pandemia
+https://github.com/TPeschel/Pandemia.git
 
 
 ## Pooling of ARD #covid19 resources, APIs, wrapper, endpoints etc.
